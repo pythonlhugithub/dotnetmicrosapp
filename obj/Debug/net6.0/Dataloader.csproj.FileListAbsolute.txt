@@ -1,0 +1,15 @@
+C:\ngnetcore\dotnetmicros\Dataloader\bin\Debug\net6.0\Dataloader.exe
+C:\ngnetcore\dotnetmicros\Dataloader\bin\Debug\net6.0\Dataloader.deps.json
+C:\ngnetcore\dotnetmicros\Dataloader\bin\Debug\net6.0\Dataloader.runtimeconfig.json
+C:\ngnetcore\dotnetmicros\Dataloader\bin\Debug\net6.0\Dataloader.dll
+C:\ngnetcore\dotnetmicros\Dataloader\bin\Debug\net6.0\Dataloader.pdb
+C:\ngnetcore\dotnetmicros\Dataloader\obj\Debug\net6.0\Dataloader.csproj.AssemblyReference.cache
+C:\ngnetcore\dotnetmicros\Dataloader\obj\Debug\net6.0\Dataloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\ngnetcore\dotnetmicros\Dataloader\obj\Debug\net6.0\Dataloader.AssemblyInfoInputs.cache
+C:\ngnetcore\dotnetmicros\Dataloader\obj\Debug\net6.0\Dataloader.AssemblyInfo.cs
+C:\ngnetcore\dotnetmicros\Dataloader\obj\Debug\net6.0\Dataloader.csproj.CoreCompileInputs.cache
+C:\ngnetcore\dotnetmicros\Dataloader\obj\Debug\net6.0\Dataloader.dll
+C:\ngnetcore\dotnetmicros\Dataloader\obj\Debug\net6.0\refint\Dataloader.dll
+C:\ngnetcore\dotnetmicros\Dataloader\obj\Debug\net6.0\Dataloader.pdb
+C:\ngnetcore\dotnetmicros\Dataloader\obj\Debug\net6.0\Dataloader.genruntimeconfig.cache
+C:\ngnetcore\dotnetmicros\Dataloader\obj\Debug\net6.0\ref\Dataloader.dll
